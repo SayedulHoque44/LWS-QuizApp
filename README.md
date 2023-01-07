@@ -23,6 +23,6 @@
 
 # `HighLight` backtec for higlight text
 
-# [link] for link third braket
+# [RepoLink](https://github.com/SayedulHoque44/LWS-QuizApp) link text in [thirdBrac] and link beside (link)
 
 **Bold** text inside 4 star will be bold
