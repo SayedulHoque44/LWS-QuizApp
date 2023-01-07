@@ -1,28 +1,11 @@
-# Html To React Component Quiz Project
+# Html To React Component Quiz Project - HomePage
 
-## Necessary Extenshion for VS code -
+## What You Will Learn From This Branch
 
-    1.ES7+ React/Redux/React-Native snippets
-    2.Live server
-    3.Material Icon
-    4.Prettier - Code formatter : make default formatter in VS code
-    5.vscode-styled-components
-    6.Auto Rename Tag
-    7.Dracula Official (theme)
-    8.learn with sumit theme
+1.`moduleCss` proti ta Component er jonno css alada rakhte hbe and segular css name `Name.module.css` ebabe dite hbe, and ai module conncet krte hbe component e `import classes from "../style/Name.module.css"` , ekhane classes ta object akare So Component e `classes.name` ebabe dite hbe **Note: React e Class ta hbe ClassName** & jegula golbale css e ache segular name `className="Name"` evave dite hbe
 
-[Create React App](https://github.com/facebook/create-react-app).
+2.`Import Image` React e image import kore use krte hoy, src="path" ebabe use kra jay na. `import img from "..path"` ebabe import krte hbe, and ue krte hbe `src={img}` ebabe.
 
-# README.md `Format` :
+3.`App.css - globale css` make gobale css & connect it main component/App.js through `import "../style/App.css"`
 
-### 3 hash for big text
-
-## 2 hash for little big text
-
-# 1 hash for small text
-
-# `HighLight` backtec for higlight text
-
-# [RepoLink](https://github.com/SayedulHoque44/LWS-QuizApp) link text in [thirdBrac] and link beside (link)
-
-**Bold** text inside 4 star will be bold
+4.Make big html to small component and separte there css by `moduleCss` and make `Globale css` for every components.
