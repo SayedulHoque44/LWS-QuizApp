@@ -25,4 +25,4 @@
 
 # [link] for link third braket
 
-# **Bold** text inside 4 star will be bold
+**Bold** text inside 4 star will be bold
