@@ -1,7 +1,5 @@
-# Html To React Component Quiz Project - SignupPage & LoginPage
+# Html To React Component Quiz Project - QuizPage & ResultPage
 
-## What You Will Learn From This Branch
+### `InlineCss in Jsx` amra component er bitore je html likhi ta sob jsx ar ata te inline css likhte hole segula object akare dite hy `style={{ width: "20%" }}` thik ebabe
 
-1.`Props destructure` amra akta tag ke commponent e convert krar por setar onk gula props thakte pare segula (`...rest`) name e catch krbe and seta tag e diye dite hbe
-
-### component: <Form {onk gula props thakte pare}>(all input)<Form/> erpor seta cath krbe ebabe <form {...rest}>{children}<form/>
+### `Double class` jsx e duita class likhte hole ebabe likhte hbe : `className={`${class} ${class}`}`
